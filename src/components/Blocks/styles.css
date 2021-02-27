@@ -1,0 +1,19 @@
+.blocks-container {
+    width: 100%;
+}
+
+.block-row {
+    background-color: #d9d9d9;
+    border-radius: 2px;
+    margin-top: 3px;
+    padding: 5px;
+}
+
+.block-id {
+    color: #0066ff;
+    font-size: 11px;
+}
+
+.block-text {
+    font-size: 14px;
+}

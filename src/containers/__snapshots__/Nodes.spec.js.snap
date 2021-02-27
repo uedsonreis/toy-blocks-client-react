@@ -134,8 +134,15 @@ exports[`<Nodes /> should match snapshot 1`] = `
             >
               <p
                 className="MuiTypography-root MuiTypography-body1"
+                style={
+                  Object {
+                    "width": "100%",
+                  }
+                }
               >
-                Blocks go here
+                <div
+                  className="blocks-container"
+                />
               </p>
             </div>
           </div>
@@ -260,8 +267,15 @@ exports[`<Nodes /> should match snapshot 1`] = `
             >
               <p
                 className="MuiTypography-root MuiTypography-body1"
+                style={
+                  Object {
+                    "width": "100%",
+                  }
+                }
               >
-                Blocks go here
+                <div
+                  className="blocks-container"
+                />
               </p>
             </div>
           </div>
